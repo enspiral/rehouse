@@ -1,0 +1,16 @@
+
+//Import bootstrap-sprockets
+@import "bootstrap-sprockets";
+
+// Import cerulean variables
+//@import "bootswatch/superhero/variables";
+
+// Then bootstrap itself
+@import "bootstrap";
+
+// Bootstrap body padding for fixed navbar
+   body {  }
+
+// And finally bootswatch style itself
+//@import "bootswatch/superhero/bootswatch";
+
